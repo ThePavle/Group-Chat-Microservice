@@ -1,5 +1,6 @@
 # Group-Chat-Microservice
-Opis projekta
+**Opis projekta**
+
 U okviru projektnog zadatka realizovana je tema servisa grupnog četa, ideja projekta 
 jeste da korisnik može da komunicira sa jednim ili više drugih korisnika putem kreiranja čet 
 soba. Korisnik takođe može da izlista i pridruži se bilo kojoj javnoj čet sobi u kojoj se već ne 
